@@ -5,7 +5,7 @@
  */
 package Queue;
 
-public class LinkedQueue<T> implements Iterable<T>, Queue<T> {
+public class LinkedQueue<T> implements Iterable<T> {
 
   private java.util.LinkedList<T> list = new java.util.LinkedList<T>();
 
