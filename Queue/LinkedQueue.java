@@ -3,7 +3,7 @@
  *
  * @author William Fiset, william.alexandre.fiset@gmail.com
  */
-//package com. williamfiset.algorithms.datastructures.queue;
+package Queue;
 
 public class LinkedQueue<T> implements Iterable<T>, Queue<T> {
 
